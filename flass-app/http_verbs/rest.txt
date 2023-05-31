@@ -1,0 +1,25 @@
+REST PRINCIPLES
+
+Going to a site does a GET request
+
+A rest api uses the http verbs
+A rest api is a way of thinking about how a web server responds to your requests
+
+A web server responds with resources/data
+
+RESOURCES/THING IN A WEB server
+
+
+#Item RESOURCE
+
+GET /item/chair
+POST /item/chair with extra data
+PUT /item/chair with extra data
+DELETE /item/chair
+
+#ItemList RESOURCE
+GET /items 
+
+A rest api is stateless
+
+Another key feature if a REST is that a request does not depend on another request

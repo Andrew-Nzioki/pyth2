@@ -1,0 +1,1 @@
+This repository represents a part of my rough journey as I tried to learn python.
